@@ -5,7 +5,9 @@ This repository contains the final, end-to-end analytical pipeline for my HSE 75
 
 ## Dataset
 **Name:** CDC Diabetes Health Indicators
+
 **Source:** UCI Machine Learning Repository, [https://archive.ics.uci.edu/dataset/891](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
+
 **Size:** 253,680 respondents, 21 predictor variables, 1 binary target (`Diabetes_binary`)
 
 The dataset is drawn from the CDC's 2015 Behavioral Risk Factor Surveillance System (BRFSS) survey and includes demographic, socioeconomic, behavioral, and self-reported health-status variables.
