@@ -13,7 +13,7 @@ The dataset is drawn from the CDC's 2015 Behavioral Risk Factor Surveillance Sys
 **Using a different dataset:** This notebook is built to run on any binary-classification dataset meeting the project's requirements (a binary target column, at least 300 rows, at least 10 predictor columns). The first cell in Part 1 prompts for a CSV upload, set `TARGET_COL` to your target column's name if using your own data. If nothing is uploaded, the notebook falls back to fetching the CDC dataset above directly from UCI.
 
 ## How to Run
-. Open `Final_Project_SR.ipynb` in Google Colab.
+1. Open `Final_Project_SR.ipynb` in Google Colab.
 2. Run all cells in order, top to bottom.
 3. When prompted in Part 1, either upload `cdc_diabetes_health_indicators.csv` (included in this repo) or click Cancel to let the notebook fetch the same dataset directly from UCI.
 4. All profiling, validation, descriptive statistics, visualizations, inferential tests, model training, and evaluation regenerate automatically from that one data load.
